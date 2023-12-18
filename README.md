@@ -4,7 +4,7 @@
 
 Netflix Scraper extracts public data from Netflix on any scale you need.
 This quick tutorial will show you how to scrape Netflix with [<u>Oxylabs’
-Scraper API</u>](https://oxylabs.io/products/scraper-api).
+Scraper API</u>]([https://oxylabs.io/products/scraper-api](https://oxylabs.io/products/scraper-api/web/netflix)).
 
 ## How it works
 
