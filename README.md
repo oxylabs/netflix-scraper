@@ -74,3 +74,5 @@ etc. You can also monitor pricing plans or the news about subscription
 changes. In case you have any questions, you can reach us via [<u>live
 chat</u>](https://oxylabs.io/) or
 [<u>email</u>](mailto:support@oxylabs.io).
+
+Also, check this tutorial on [pypi](https://pypi.org/project/Tripadvisor-scraper/)
