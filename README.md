@@ -75,4 +75,4 @@ changes. In case you have any questions, you can reach us via [<u>live
 chat</u>](https://oxylabs.io/) or
 [<u>email</u>](mailto:support@oxylabs.io).
 
-Also, check this tutorial on [pypi](https://pypi.org/project/Tripadvisor-scraper/)
+Also, check this tutorial on [pypi](https://pypi.org/project/Netflix-scraper/)
